@@ -1,0 +1,8 @@
+button,
+input,
+select,
+option{
+    background: transparent;
+    outline: none;
+    border: none;
+}
